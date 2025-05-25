@@ -21,7 +21,6 @@ A deep learning model for facial emotion classification. This Keras-based projec
     <li><a href="#run">Run</a></li>
     <li><a href="#data">Data</a></li>
     <li><a href="#future-improvements">Future Improvements</a></li>
-    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
