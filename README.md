@@ -1,7 +1,5 @@
 # My Emotion Recognition Project
 
-<!-- PROJECT SHIELDS -->
-![Contributors][contributors-badge]
 
 **CNN model for classifying facial emotions into seven categories using Keras**
 
@@ -15,9 +13,6 @@ A deep learning model for facial emotion classification. This Keras-based projec
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li><a href="#model-architecture">Model Architecture</a></li>
     <li><a href="#implementation-details">Implementation Details</a></li>
@@ -197,19 +192,3 @@ Potential enhancements for future versions of the project:
 - Shane Eastwood ([Github][shane-github] · [LinkedIn][shane-linkedin])
 
 
-
-<!-- MARKDOWN LINKS -->
-<!-- Badges and their links -->
-[contributors-badge]: https://img.shields.io/badge/Contributors-1-44cc11?style=for-the-badge
-[keras-badge]: https://img.shields.io/badge/keras-d10000?style=for-the-badge&logo=keras&logoColor=ffffff
-[keras]: https://keras.io/
-[numpy-badge]: https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff
-[numpy]: https://numpy.org/
-[sklearn-badge]: https://img.shields.io/badge/sklearn-f89a36?style=for-the-badge&logo=scikitlearn&logoColor=ffffff
-[sklearn]: https://scikit-learn.org/stable/
-
-<!-- Socials -->
-[andrei-linkedin]: https://www.linkedin.com/in/andreihar/
-[andrei-github]: https://github.com/andreihar
-[shane-linkedin]: https://www.linkedin.com/in/shane-eastwood-3549479b/
-[shane-github]: https://github.com/sjeastwood
