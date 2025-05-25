@@ -44,11 +44,6 @@ The project implements a Convolutional Neural Network (CNN) model for facial emo
 
 During the project development iterative process, many different machine learning ideas were tested and evaluated based on the performance metrics. The implementation uses Keras with TensorFlow backend and achieves competitive accuracy compared to human performance in emotion recognition tasks.
 
-### Built With
-
-* [![Keras][keras-badge]][keras]
-* [![NumPy][numpy-badge]][numpy]
-* [![sklearn][sklearn-badge]][sklearn]
 
 ## Model Architecture
 
@@ -168,7 +163,7 @@ The dataset includes:
   - Validation set: ~10% (3,587 images)
   - Test set: ~10% (3,591 images)
 
-The benchmark for evaluation is based on a [study by the University of Porto](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7599941/), which showed that humans achieve a mean agreement rate of 82.0% in recognizing facial emotions across 8 categories.
+
 
 ## Future Improvements
 
@@ -182,13 +177,8 @@ Potential enhancements for future versions of the project:
 6. **Cross-cultural Validation**: Test and refine the model across diverse demographic groups to ensure fair performance
 7. **Ensemble Methods**: Combine multiple models to improve overall accuracy and robustness
 
-<!-- CONTRIBUTION -->
-## Contributors
 
-- [Your Name] (Your contact information)
 
-### Original Authors
-- Andrei Harbachov ([Github][andrei-github] · [LinkedIn][andrei-linkedin])
-- Shane Eastwood ([Github][shane-github] · [LinkedIn][shane-linkedin])
+
 
 
